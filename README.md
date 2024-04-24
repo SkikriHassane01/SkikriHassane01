@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/hassane-skikri-3224bb255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://salesp07.ub.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
     <a href="https://medium.com/@Hassane_01" target="_blank">
@@ -59,9 +59,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,c,cpp,javascript,java,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,java,github,git" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=sklearn,mysql,postgres,mongodb,vscode,visualstudio,aws,html,css,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,mysql,mongodb,vscode,visualstudio,azure,html,css" /><br>
 </div>
 
 <br/>
@@ -70,10 +70,10 @@
    <p>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+<!--       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
    </br>
       <a href="#"><img alt="Scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-      <a href="#"><img alt="pytorch)" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+<!--       <a href="#"><img alt="pytorch)" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a> -->
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
    </br>
       <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
