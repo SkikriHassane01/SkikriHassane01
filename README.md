@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaneskikri&label=Profile%20views&color=0e75b6&style=flat" alt="hassaneskikri" /> </p>
+<!-- Number of views---------------->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SkikriHassane01&label=Profile%20views&color=0e75b6&style=flat" alt="SkikriHassane" /> </p>
 
 <!------------------------------------------------>
 
@@ -28,10 +30,10 @@
   <a href="hassaneskikri@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/hassane-skikri-3224bb255/" target="_blank">
+  <a href="https://www.linkedin.com/in/hassane-skikri-8b25b9308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://hassaneskikri.github.io/skikriPortfolio/" target="_blank">
+  <a href="https://portfolio-projecct.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
     <a href="https://medium.com/@Hassane_01" target="_blank">
@@ -44,7 +46,7 @@
   </a>
 
   </a>
-    <a href="https://github.com/HassaneSkikri" target="_blank">
+    <a href="https://github.com/SkikriHassane01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 
@@ -111,8 +113,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HassaneSkikri&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HassaneSkikri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SkikriHassane01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SkikriHassane01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HassaneSkikri&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SkikriHassane01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
